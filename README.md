@@ -33,13 +33,7 @@ Online Food Ordering System in PHP
 8.  After setting up all these, go to the URL “http://localhost/[ PROJECT_FOLDER_NAME ]/“ <br/>
 9.  All the login details are provided inside the project folder, check that out and enter them in order to use it. <br/>
 
-### Admin Login Info Details
 
-Email : ccbd <br/> Password: Watch This Youtube <a href = "https://www.youtube.com/watch?v=cQNX1PgWqL4&lc=UgxOVgDFfPgSoNiGlzJ4AaABAg" target="_blank"> Video </a> <br/> Subcribe my You tube Channel \***\* <a href="https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw" target="_blank">Subscribe</a> \*\***
-
-Subcribe my You tube Channel \***\* <a href="https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw" target="_blank">Subscribe</a> \*\***
-
-Author : MH RONY <br/> Website Link: https://developerrony.com <br /> GitHub Link: https://github.com/dev-mhrony <br /> Youtube Video Link:https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw <br /> Youtube Channel Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
 
 ## Frontend Preview
 
@@ -51,7 +45,6 @@ Author : MH RONY <br/> Website Link: https://developerrony.com <br /> GitHub Lin
 
 ![screencapture-localhost-OnlineFood-PHP-registration-php-2023-02-22-20_45_09](https://user-images.githubusercontent.com/78216965/220664419-cc79fae6-e834-426f-9950-93cd3ec77a26.png)
 
-![screencapture-localhost-OnlineFood-PHP-your-orders-php-2023-02-22-20_46_27](https://user-images.githubusercontent.com/78216965/220664502-693d905d-928e-4867-ac70-587f424c5d85.png)
 
 ## Backend Preview
 
